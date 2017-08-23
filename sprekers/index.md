@@ -1,11 +1,10 @@
 ---
 layout: default
-title: 
-alt:
+title:
 description:
 keywords:
-nav: sponsors
-image:
+nav: sprekers
+image: 
 ---
 
-# Sponsor
+# Sprekers
