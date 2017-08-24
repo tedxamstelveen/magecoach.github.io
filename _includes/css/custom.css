@@ -211,7 +211,6 @@ blockquote span:before {
 
 .button {
   display: inline-block;
-  height: 38px;
   padding: 0 30px;
   color: #555;
   text-align: center;
@@ -219,7 +218,6 @@ blockquote span:before {
   font-weight: 600;
   line-height: 38px;
   letter-spacing: .1rem;
-  text-transform: uppercase;
   text-decoration: none;
   white-space: nowrap;
   background-color: transparent;
@@ -233,14 +231,14 @@ blockquote span:before {
   border-color: #000;
   outline: 0; }
 .button.button-primary {
-  color: #f50404;
-  background-color: #fff;
+  color: #fff;
+  background-color: #000;
   border-color: #fff; }
 .button.button-primary:hover,
 .button.button-primary:focus {
   color: #fff;
   background-color: #000;
-  border-color: #000;
+  border-color: #fff;
 }
 
 amp-accordion section[expanded] .show-more {

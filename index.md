@@ -15,5 +15,5 @@ image:
 
 
 <div class="btn">
-  <a class="button button-primary" href="https://run.mage.coach/" title="Aanmelding {{site.title}}">Aanmelden Tedx</a>
+  <a class="button button-primary" href="https://run.mage.coach/" title="Aanmelding {{site.title}}">Aanmelden {{site.title}}</a>
 </div>
