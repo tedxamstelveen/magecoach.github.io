@@ -1,3 +1,7 @@
+.hero {
+  color: #fff
+}
+
 .white {
   background-color: #ffffff;
   padding-bottom: 20px;
@@ -17,8 +21,8 @@ footer h3 {
 
 .pull-left {
 float: left;
-width: 10vw;
-height: 10vw;
+width: 20vw;
+height: 20vw;
 }
 
 .pull-right {
@@ -58,7 +62,7 @@ margin: 0;
 }
 
 a {
-color: #428bca;
+color: #f50404;
 text-decoration: none;
 }
 
@@ -127,7 +131,7 @@ footer li {
 }
 
 footer a {
-  color: #266b97;
+  color: #fff;
 }
 
 a btn {
@@ -223,17 +227,17 @@ blockquote span:before {
 .button:hover,
 .button:focus {
   color: #333;
-  border-color: #888;
+  border-color: #000;
   outline: 0; }
 .button.button-primary {
-  color: #000000;
-  background-color: #ffd100;
-  border-color: #ffd100; }
+  color: #f50404;
+  background-color: #fff;
+  border-color: #fff; }
 .button.button-primary:hover,
 .button.button-primary:focus {
-  color: #FFF;
-  background-color: #1EAEDB;
-  border-color: #1EAEDB;
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
 }
 
 amp-accordion section[expanded] .show-more {

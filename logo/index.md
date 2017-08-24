@@ -1,8 +1,8 @@
 ---
 layout: default
-title: The mage.coach logo
-description: Download the mage.coach to use on the web and for print.
-keywords: mage.coach, logo
+title:
+description:
+keywords: 
 nav: logo
 ---
 

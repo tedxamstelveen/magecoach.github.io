@@ -1,5 +1,5 @@
-url: https://tedxamstelveen.github.io
-static-url: https://tedxamstelveen.github.io
+url: http://localhost
+#static-url: https://tedxamstelveen.github.io
 baseurl:
 
 # Site settings

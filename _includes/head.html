@@ -8,16 +8,16 @@
 	<meta name="author" content="{{ page.author }}">
   <meta name="robots" content="{{ site.robots }}"/>
   <meta name="apple-mobile-web-app-capable" content="yes">
-	<link rel="dns-prefetch" href="{{site.static-url}}">
-	<link rel="preconnect" href="{{site.static-url}}">
-	<link rel="prerender" href="{{site.static-url}}">
+	<link rel="dns-prefetch" href="{{site.url}}">
+	<link rel="preconnect" href="{{site.url}}">
+	<link rel="prerender" href="{{site.url}}">
 
-	<link rel="canonical" href="{{ site.url-non }}{{ page.url | replace:'index.html','' }}"/>
+	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}"/>
 
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="@magecoach">
-	<meta name="twitter:creator" content="@raybogman">
-	<meta name="twitter:url" content="{{site.url-non}}{{ page.url | replace:'index.html','' }}">
+	<meta name="twitter:site" content="@tedxamstelveen">
+	<meta name="twitter:creator" content="@tedxamstelveen">
+	<meta name="twitter:url" content="{{site.url}}{{ page.url | replace:'index.html','' }}">
 	<meta name="twitter:title" content="{{ page.title | truncate:70  }}">
 
 	{% if page.twitterdescription %}
@@ -27,21 +27,21 @@
 	{% endif %}
 
 	{% if page.image %}
-	<meta name="twitter:image" content="{{site.static-url}}{{ page.image }}">
+	<meta name="twitter:image" content="{{site.url}}{{ page.image }}">
 	{% endif %}
 
-	<meta property="og:image" content="{{site.static-url}}/img/mage.coach-400x400.png">
+	<meta property="og:image" content="{{site.url}}/img/tedxamstelveen-400x400.png">
 	<meta property="og:title" content="{{ page.title }}">
-	<meta property="og:url" content="{{site.url-non}}{{ page.url | replace:'index.html','' }}">
-	<meta property="og:site_name" content="Mage.coach - How speedy is your Magento website">
+	<meta property="og:url" content="{{site.url}}{{ page.url | replace:'index.html','' }}">
+	<meta property="og:site_name" content="{{site.title}}">
 	<meta property="og:description" content="{{ page.description | truncate:200 }}">
 	<meta property="fb:app_id" content="{{ site.fb_app_id }}" />
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.static-url}}/img/ico/mage.coach-144.png">
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.static-url}}/img/ico/mage.coach-114.png">
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.static-url}}/img/ico/mage.coach-72.png">
-	<link rel="apple-touch-icon-precomposed" href="{{site.static-url}}/img/ico/mage.coach-57.png">
-	<link rel="shortcut icon" href="{{site.static-url}}/img/ico/mage.coach.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.url}}/img/ico/tedxamstelveen-144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.url}}/img/ico/tedxamstelveen-114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.url}}/img/ico/tedxamstelveen-72.png">
+	<link rel="apple-touch-icon-precomposed" href="{{site.url}}/img/ico/tedxamstelveen-57.png">
+	<link rel="shortcut icon" href="{{site.url}}/img/ico/tedxamstelveen.ico">
 	<style amp-custom>{% include css/default.css %}</style>
 	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 	<script async src="https://cdn.ampproject.org/v0.js"></script>

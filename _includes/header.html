@@ -2,23 +2,23 @@
 <div class="grid">
   <div class="col-1-1">
     <div class="logo">
-    <a href="{{site.baseurl}}/"><amp-img noloading width="162" height="50" layout="responsive" src="/img/logos/{{ site.logo}}" class="navbar-brand" alt="{{ site.description }}"></amp-img></a>
+    <a href="{{site.url}}"><amp-img noloading width="162" height="50" layout="responsive" src="{{site.logo}}" class="navbar-brand" alt="{{ site.description }}"></amp-img></a>
   </div>
     <ul>
       <li>
-         <a href="{{site.baseurl}}/" {% if page.nav == 'start' %}class="active" {% endif %}>Start</a>
+         <a href="{{site.url}}/" {% if page.nav == 'start' %}class="active" {% endif %}>Start</a>
       </li>
       <li>
-         <a href="{{site.baseurl}}/sponsors/" {% if page.nav == 'sponsors' %}class="active" {% endif %}>Sponsors</a>
+         <a href="{{site.url}}/sponsors/" {% if page.nav == 'sponsors' %}class="active" {% endif %}>Sponsors</a>
       </li>
       <li>
-         <a href="{{site.baseurl}}/sprekers/" {% if page.nav == 'examples' %}class="active" {% endif %}>Examples</a>
+         <a href="{{site.url}}/sprekers/" {% if page.nav == 'sprekers' %}class="active" {% endif %}>Sprekers</a>
       </li>
        <li>
-         <a href="{{site.baseurl}}/blog/" {% if page.nav == 'blog' %}class="active" {% endif %}>Blog</a>
+         <a href="{{site.url}}/nieuws/" {% if page.nav == 'nieuws' %}class="active" {% endif %}>Nieuws</a>
       </li>
       <li>
-         <a href="{{site.baseurl}}/faq/" {% if page.nav == 'faq' %}class="active" {% endif %}>FAQ</a>
+         <a href="{{site.url}}/team/" {% if page.nav == 'team' %}class="active" {% endif %}>Team</a>
       </li>
     </ul>
   </div>

@@ -2,8 +2,8 @@
 layout: default
 title:
 description:
-keywords: 
-nav: blog
+keywords:
+nav: nieuws
 ---
 
 # Blog
