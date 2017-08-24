@@ -1,5 +1,7 @@
 .hero {
-  color: #fff
+  color: #fff;
+  background-color: #e62b1e;
+  max-width: 2580px
 }
 
 .white {
