@@ -1,5 +1,0 @@
-## Sponsor
-* * *
-
-
-Sponsor worden?

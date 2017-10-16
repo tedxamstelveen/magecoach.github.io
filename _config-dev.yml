@@ -3,11 +3,11 @@ url: http://localhost
 baseurl:
 
 # Site settings
-title: TEDx Amstelveen
-name: TEDx Amstelveen
+title: TEDxAmstelveen
+name: TEDxAmstelveen
 domain-name: tedxamstelveen.com
 robots: NOINDEX,NOFOLLOW
-email: hello@tedxamstelveen.com
+email: hallo@tedxamstelveen.com
 description: ""
 google_analytics: //UA-89167735-2
 fb_app_id: //717157511826431
