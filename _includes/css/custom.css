@@ -70,8 +70,12 @@ height: 0;
 }
 
 footer p {
-text-align: center;
 margin: 0;
+color: rgb(255, 255, 255);
+}
+
+.footer-center {
+  text-align: center;
 }
 
 a {
