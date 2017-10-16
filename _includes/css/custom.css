@@ -1,3 +1,11 @@
+.home-red {
+  font-size: larger;
+  background-color: rgb(0,0,0);
+  opacity: 0.6;
+  margin-left: 25vw;
+  padding: 1vw;
+}
+
 .hero {
   color: #fff;
   background-color: #e62b1e;

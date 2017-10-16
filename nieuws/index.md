@@ -1,12 +1,12 @@
 ---
 layout: default
-title:
-description:
+title: TEDxAmstelveen laatste nieuws
+description: Overzicht TEDxAmstelveen laatste nieuws.
 keywords:
 nav: nieuws
 ---
 
-# Blog
+# Nieuws
 
 
 {% for post in site.posts %}
@@ -18,7 +18,7 @@ nav: nieuws
 **{{ post.date | date: '%Y' }}-{{ post.date | date: '%m' }}-{{ post.date | date: '%d' }}** -
   {{ post.intro }}
 
-  [>> Read more]({{site.baseurl}}{{ post.url }})
+  [>> Lees meer]({{site.baseurl}}{{ post.url }})
 
 
 
