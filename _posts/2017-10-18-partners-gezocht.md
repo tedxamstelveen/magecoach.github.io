@@ -1,14 +1,15 @@
 ---
 layout: default
-title: TEDxAmstelveen komt er aan, 16 maart 2018
-description: TEDxAmstelveen komt er aan, 16 maart 2018, Annakerk Amstelveen van 13:00 - 18:00
+title: Partners gezocht
+description:
 image: /img/blog/
 authorimage: /img/team/ray.svg
-authorname: Ray Bogman
-datePublished: 2017-09-19T08:00:00+08:00
-dateModified: 2017-09-19T08:00:00+08:00
-intro: TEDxAmstelveen komt er aan, 16 maart 2018, Annakerk Amstelveen van 13:00 - 18:00
+authorname: Mette Reitsma
+datePublished: 2017-10-18T08:00:00+08:00
+dateModified: 2017-10-18T08:00:00+08:00
+intro: Partners gezocht
 keywords:
+hits: 4
 nav: blog
 ---
 

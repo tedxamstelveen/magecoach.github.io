@@ -1,8 +1,7 @@
-.home-red {
+.banner {
+  text-align: center;
   font-size: larger;
-  background-color: rgb(0,0,0);
-  opacity: 0.6;
-  margin-left: 25vw;
+  margin: 1vw;
   padding: 1vw;
 }
 
@@ -72,7 +71,7 @@ height: 0;
 footer p {
 margin: 0;
 color: rgb(255, 255, 255);
-padding-top: 15px; 
+padding-top: 15px;
 }
 
 .footer-center {

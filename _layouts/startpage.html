@@ -20,10 +20,8 @@ layout: compress
 		</div>
 	</div>
 	<div class="grid">
-		<div class="col-1-1">
 			{% capture blog %}{% include index/blog.md %}{% endcapture %}
-			{{ blog | markdownify }}
-		</div>
+			{{ blog }}
 	</div>
 </div>
 
