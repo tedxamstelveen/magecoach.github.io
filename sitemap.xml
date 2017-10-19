@@ -9,7 +9,7 @@ sitemap:
     {% unless page.sitemap.exclude == "yes" %}
     {% if page.layout != nil %}
     <url>
-        <loc>https://mage.coach{{ page.url | remove: 'index.html' }}</loc>
+        <loc>https://tedxamstelveen.com{{ page.url | remove: 'index.html' }}</loc>
         {% if page.url contains 'release-notes' %}
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
