@@ -1,8 +1,8 @@
 {% assign posts = site.posts | sort: 'hits' %}
   {% for post in posts limit:4 %}
-  <div class="col-1-4">
-    <h3>{{ post.title }}</h3>
+  <div class="col-1-5 red">
+    <h3><a href="{{site.url}}{{post.url}}" title="{{ page.title }}">{{ post.title }}</a></h3>
     <p>{{ post.intro }}</p>
-    <p><a title="post.title" href="{{site.url}}{{ post.url }}">Lees meer...</a></p>
+    <p><a title="post.title" href="{{site.url}}{{ post.url }}">» Lees meer</a></p>
   </div>
 {% endfor %}
