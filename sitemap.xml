@@ -1,24 +1,14 @@
 ---
 layout: null
-sitemap:
-  exclude: 'yes'
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for page in site.pages %}
-    {% unless page.sitemap.exclude == "yes" %}
-    {% if page.layout != nil %}
-    <url>
-        <loc>https://tedxamstelveen.com{{ page.url | remove: 'index.html' }}</loc>
-        {% if page.url contains 'release-notes' %}
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-        {% else %}
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        {% endif %}
-    </url>
-    {% endif %}
-    {% endunless %}
-    {% endfor %}
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <sitemap>
+                <loc>{{ site.url }}/post-sitemap.xml</loc>
+                <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        </sitemap>
+        <sitemap>
+                <loc>{{ site.url }}/page-sitemap.xml</loc>
+                <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        </sitemap>
+</sitemapindex>
