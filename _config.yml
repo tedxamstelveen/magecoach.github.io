@@ -6,11 +6,11 @@ baseurl:
 title: TEDxAmstelveen
 name: TEDxAmstelveen
 domain-name: tedxamstelveen.com
-robots: NOINDEX,NOFOLLOW
+robots: INDEX,FOLLOW
 email: hallo@tedxamstelveen.com
-description: ""
-google_analytics: //UA-89167735-2
-fb_app_id: //717157511826431
+description: TEDx Amstelveen - 16 Maart 2018 - Thema 'Verbinding'
+google_analytics: UA-108379881-1
+fb_app_id: 144786006139437
 logo: /img/logos/TEDx_Amstelveen-logo.svg
 
 social:
