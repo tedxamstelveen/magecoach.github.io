@@ -13,7 +13,7 @@ hits: 4
 nav: blog
 ---
 
-# {Partners gezocht
+# Partners gezocht
 
 <a href="{{site.url}}{{page.url}}" title="{{ page.title }}"><amp-img noloading width="100" height="100" alt="{{ page.title }}" layout="responsive" src="{{site.url}}{{ page.image }}" class="photo pull-left"></amp-img></a>
 
