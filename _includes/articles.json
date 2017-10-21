@@ -24,8 +24,8 @@
     "logo": {
       "@type": "ImageObject",
       "url": "{{site.url}}{{site.image}}",
-      "width": 1440,
-      "height": 810
+      "width": 1387,
+      "height": 780
     }
   },
   "description": "{{post.description}}"
