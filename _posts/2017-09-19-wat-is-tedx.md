@@ -3,6 +3,8 @@ layout: default
 title: Wat is TEDx?
 description: TED is een wereldwijde organisatie van vrijwilligers en partners die geloven in de kracht van het verspreiden van ideeen via TED talks.
 image: /img/blog/placeholder.png
+height: 100
+width: 100
 authorimage: /img/team/ray.svg
 authorname: Mette Reitsma
 datePublished: 2017-09-19T08:00:00+08:00

@@ -20,12 +20,12 @@
   },
    "publisher": {
     "@type": "Organization",
-    "name": "Mage.coach",
+    "name": "{{site.title}}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{site.static-url}}{{site.logo}}",
-      "width": 600,
-      "height": 60
+      "url": "{{site.url}}{{page.image}}",
+      "width": "{{page.width}}",
+      "height": "{{page.height}}"
     }
   },
   "description": "{{post.description}}"

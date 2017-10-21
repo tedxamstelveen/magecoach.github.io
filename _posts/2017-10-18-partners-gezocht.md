@@ -3,6 +3,8 @@ layout: default
 title: Partners gezocht
 description: Om het evenement toegankelijk en laagdrempelig te houden doen we een beroep op sponsoren om ons evenement kostendekkend uit te voeren.
 image: /img/blog/partners-gezocht.png
+height: 500
+width: 415
 authorimage: /img/team/ray.svg
 authorname: Mette Reitsma
 datePublished: 2017-10-18T08:00:00+08:00
