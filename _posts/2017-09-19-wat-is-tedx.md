@@ -10,7 +10,7 @@ dateModified: 2017-09-19T08:00:00+08:00
 intro: TED is een wereldwijde organisatie van vrijwilligers en partners die geloven in de kracht van het verspreiden van ideeen via TED talks.
 keywords:
 hits: 1
-nav: blog
+nav: blog-video
 ---
 
 # Wat is TEDx?
@@ -26,4 +26,5 @@ De TED talks worden afgewisseld met muzikale optredens en korte pauzes.
 Het evenement en de talks hebben geen commercieel, religieus of politiek doel. Het doel is om te inspireren, enthousiasmeren en verbinden.
 Eerst waren alle TEDx evenementen in het Engels om te zorgen dat de ideeën over de hele wereld verspreid kunnen worden. Maar sinds twee jaar is het ook mogelijk om een TEDx in het Nederlands te houden. In je eigen taal zorg je voor een grotere kans op verbinding tussen sprekers en bezoekers. TEDx Amstelveen zal dan ook voor 80% uit Nederlandstalige talks bestaan.
 
-<< link naar flimpje over wat is TEDx>>
+Dit filmpje geeft uitleg over TED en TEDx.
+<amp-youtube data-videoid="ybYI9VbtOvo" layout="responsive" width="480" height="270"></amp-youtube>

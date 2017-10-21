@@ -1,3 +1,17 @@
+.check {
+    padding-left: 0;
+    margin-left: 2.14285714em;
+    list-style-type: none;
+}
+.check li:before {
+    font-family: 'FontAwesome';
+    content: '\f00c';
+    margin: 0 10px 0 0px;
+    visibility: visible;
+    height: 0px;
+    color: rgb(230, 43, 30);
+}
+
 .banner {
   text-align: center;
   font-size: larger;
