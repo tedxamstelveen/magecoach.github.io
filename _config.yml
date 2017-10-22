@@ -10,7 +10,7 @@ collections:
     output: true
 url: https://tedxamstelveen.com
 static-url: https://tedxamstelveen.com
-baseurl: 
+baseurl:
 name: TEDxAmstelveen
 domain-name: tedxamstelveen.com
 robots: INDEX,FOLLOW
@@ -39,7 +39,7 @@ compress_html:
   endings: all
 kramdown:
   enable_coderay: false
-  coderay: 
+  coderay:
   coderay_wrap: div
   coderay_line_numbers: inline
   coderay_line_number_start: 1
@@ -52,17 +52,3 @@ sitemap:
   changefreq: monthly
   exclude: 'yes'
 gems:
-<<<<<<< HEAD
-  - jekyll-paginate
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-seo-tag
-  - html-proofer
-  - jekyll-admin
-=======
-- jekyll-paginate
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-seo-tag
-- html-proofer
->>>>>>> 54041366afa5eb037cb7e30d70ecbfbda6e32a1f
