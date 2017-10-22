@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 {
   "name": "{{ site.name }}",
   "short_name": "{{ site.title }}",

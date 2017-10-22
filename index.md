@@ -1,10 +1,10 @@
 ---
-layout: startpage
 title: TEDx Amstelveen - 16 Maart 2018 - Thema 'Verbinding'
+layout: startpage
 description: TEDx Amstelveen - 16 Maart 2018 - Thema 'Verbinding'
-keywords:
+keywords: 
 nav: start
-image:
+image: 
 ---
 
 <div class="banner"><h1>{{site.title}} - 16 Maart 2018</h1></div>

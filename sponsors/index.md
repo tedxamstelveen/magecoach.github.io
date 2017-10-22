@@ -1,10 +1,10 @@
 ---
-layout: default
 title: TEDxAmstelveen Sponsors
+layout: default
 description: Overzicht van alle sponsoren van TEDxAmstelveen.
-keywords:
+keywords: 
 nav: sponsors
-image:
+image: 
 ---
 
 # Sponsor

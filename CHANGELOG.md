@@ -1,8 +1,9 @@
 ---
-layout: null
+layout: 
 sitemap:
   exclude: 'yes'
 ---
+
 # CHANGELOG - mage.coach
 
 ## 0.1.1 2017-08-10

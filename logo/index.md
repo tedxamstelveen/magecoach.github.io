@@ -1,10 +1,9 @@
 ---
-layout: default
 title: TEDxAmstelveen Logo
+layout: default
 description: TEDxAmstelveen Logo
-keywords:
+keywords: 
 nav: logo
 ---
-
 
 # {{ site.title}} Logo

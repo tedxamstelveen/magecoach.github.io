@@ -1,16 +1,19 @@
 ---
-layout: default
 title: ANNA Amstelveen
-description: ANNA wordt de locatie voor onze eerste TEDxAmstelveen 2017. De voormalige Annakerk wordt momenteel omgebouwd tot de nieuwe ontmoetingsplek van Amstelveen.
-image: /img/blog/annakerk.jpg
+date: 2017-09-30 00:00:00 Z
+layout: default
+description: ANNA wordt de locatie voor onze eerste TEDxAmstelveen 2017. De voormalige
+  Annakerk wordt momenteel omgebouwd tot de nieuwe ontmoetingsplek van Amstelveen.
+image: "/img/blog/annakerk.jpg"
 height: 2448
 width: 3264
-authorimage: /img/team/ray.svg
+authorimage: "/img/team/ray.svg"
 authorname: Mette Reitsma
-datePublished: 2017-09-30T08:00:00+08:00
-dateModified: 2017-09-30T08:00:00+08:00
-intro: ANNA wordt de locatie voor onze eerste TEDxAmstelveen. De Annakerk wordt momenteel omgebouwd tot de ontmoetingsplek van Amstelveen.
-keywords:
+datePublished: 2017-09-30 00:00:00 Z
+dateModified: 2017-09-30 00:00:00 Z
+intro: ANNA wordt de locatie voor onze eerste TEDxAmstelveen. De Annakerk wordt momenteel
+  omgebouwd tot de ontmoetingsplek van Amstelveen.
+keywords: 
 hits: 3
 nav: blog
 ---
