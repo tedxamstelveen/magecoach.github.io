@@ -1,7 +1,6 @@
 ---
 title: ANNA Amstelveen
 date: 2017-09-30 00:00:00 Z
-layout: default
 description: ANNA wordt de locatie voor onze eerste TEDxAmstelveen 2017. De voormalige
   Annakerk wordt momenteel omgebouwd tot de nieuwe ontmoetingsplek van Amstelveen.
 image: "/img/blog/annakerk.jpg"
@@ -16,11 +15,13 @@ intro: ANNA wordt de locatie voor onze eerste TEDxAmstelveen. De Annakerk wordt 
 keywords: 
 hits: 3
 nav: blog
+layout: default
 ---
 
 # ANNA Amstelveen
 
 <a href="{{site.url}}{{page.url}}" title="{{ page.title }}"><amp-img noloading width="100" height="100" alt="{{ page.title }}" layout="responsive" src="{{site.url}}{{ page.image }}" class="photo pull-left"></amp-img></a>
 
+test ray
 ANNA wordt de locatie voor onze eerste TEDxAmstelveen. De voormalige Annakerk wordt momenteel omgebouwd tot de nieuwe ontmoetingsplek van Amstelveen. Het heeft het enthousiasme en de inspiratie die past bij ons evenement. ANNA is een samenwerkingsverband van Heem locaties, de Naeckte Brouwers en ANNA Proeflokaal,  een geweldig Amstelveens idee.
 [https://www.anna-amstelveen.nl/](https://www.anna-amstelveen.nl/ "ANNA Amstelveen")
