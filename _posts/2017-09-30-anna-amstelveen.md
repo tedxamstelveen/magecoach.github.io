@@ -22,6 +22,5 @@ layout: default
 
 <a href="{{site.url}}{{page.url}}" title="{{ page.title }}"><amp-img noloading width="100" height="100" alt="{{ page.title }}" layout="responsive" src="{{site.url}}{{ page.image }}" class="photo pull-left"></amp-img></a>
 
-test ray
 ANNA wordt de locatie voor onze eerste TEDxAmstelveen. De voormalige Annakerk wordt momenteel omgebouwd tot de nieuwe ontmoetingsplek van Amstelveen. Het heeft het enthousiasme en de inspiratie die past bij ons evenement. ANNA is een samenwerkingsverband van Heem locaties, de Naeckte Brouwers en ANNA Proeflokaal,  een geweldig Amstelveens idee.
 [https://www.anna-amstelveen.nl/](https://www.anna-amstelveen.nl/ "ANNA Amstelveen")
