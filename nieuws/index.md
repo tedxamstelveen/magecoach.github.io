@@ -1,10 +1,11 @@
 ---
-layout: default
 title: TEDxAmstelveen laatste nieuws
+layout: default
 description: Overzicht TEDxAmstelveen laatste nieuws.
-keywords:
+keywords: 
 nav: nieuws
 ---
+
 # Nieuws
 
 {% for post in site.posts %}

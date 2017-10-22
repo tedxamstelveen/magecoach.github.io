@@ -1,16 +1,19 @@
 ---
-layout: default
 title: Partners gezocht
-description: Om het evenement toegankelijk en laagdrempelig te houden doen we een beroep op sponsoren om ons evenement kostendekkend uit te voeren.
-image: /img/blog/partners-gezocht.png
+date: 2017-10-18 00:00:00 Z
+layout: default
+description: Om het evenement toegankelijk en laagdrempelig te houden doen we een
+  beroep op sponsoren om ons evenement kostendekkend uit te voeren.
+image: "/img/blog/partners-gezocht.png"
 height: 500
 width: 415
-authorimage: /img/team/ray.svg
+authorimage: "/img/team/ray.svg"
 authorname: Mette Reitsma
-datePublished: 2017-10-18T08:00:00+08:00
-dateModified: 2017-10-18T08:00:00+08:00
-intro: Om het evenement toegankelijk en laagdrempelig te houden doen we een beroep op sponsoren om ons evenement kostendekkend uit te voeren.
-keywords:
+datePublished: 2017-10-18 00:00:00 Z
+dateModified: 2017-10-18 00:00:00 Z
+intro: Om het evenement toegankelijk en laagdrempelig te houden doen we een beroep
+  op sponsoren om ons evenement kostendekkend uit te voeren.
+keywords: 
 hits: 4
 nav: blog
 ---

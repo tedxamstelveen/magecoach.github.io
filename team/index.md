@@ -1,10 +1,10 @@
 ---
-layout: default
 title: TEDxAmstelveen Team leden
+layout: default
 description: Overzicht van alle team leden van TEDxAmstelveen.
-keywords:
+keywords: 
 nav: team
-image:
+image: 
 ---
 
 # Team

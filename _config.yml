@@ -1,9 +1,16 @@
+---
+title: TEDxAmstelveen
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 url: https://tedxamstelveen.com
 static-url: https://tedxamstelveen.com
-baseurl:
-
-# Site settings
-title: TEDxAmstelveen
+baseurl: 
 name: TEDxAmstelveen
 domain-name: tedxamstelveen.com
 robots: INDEX,FOLLOW
@@ -11,47 +18,51 @@ email: hallo@tedxamstelveen.com
 description: TEDx Amstelveen - 16 Maart 2018 - Thema 'Verbinding'
 google_analytics: UA-108379881-1
 fb_app_id: 144786006139437
-logo: /img/logos/TEDx_Amstelveen-logo.svg
-image: /img/logos/TEDx_Amstelveen-horz-white.jpg
+logo: "/img/logos/TEDx_Amstelveen-logo.svg"
+image: "/img/logos/TEDx_Amstelveen-horz-white.jpg"
 author: Ray Bogman
-
 social:
-  - title: twitter
-    url: https://twitter.com/tedxamstelveen
-  - title: facebook
-    url: https://www.facebook.com/tedxamstelveen
-  - title: youtube
-    url: https://www.youtube.com/channel/UCEmelQhyVjPdN07V286mt6g
-
-# Build settings
-exclude: [vendor]
+- title: twitter
+  url: https://twitter.com/tedxamstelveen
+- title: facebook
+  url: https://www.facebook.com/tedxamstelveen
+- title: youtube
+  url: https://www.youtube.com/channel/UCEmelQhyVjPdN07V286mt6g
+exclude:
+- vendor
 markdown: kramdown
 permalink: pretty
 sass:
-    style: compressed
+  style: compressed
 compress_html:
   clippings: all
   endings: all
 kramdown:
-    enable_coderay: false
-    coderay:
-    coderay_wrap:              div
-    coderay_line_numbers:      inline
-    coderay_line_number_start: 1
-    coderay_tab_width:         4
-    coderay_bold_every:        10
-    coderay_css:               style
-
+  enable_coderay: false
+  coderay: 
+  coderay_wrap: div
+  coderay_line_numbers: inline
+  coderay_line_number_start: 1
+  coderay_tab_width: 4
+  coderay_bold_every: 10
+  coderay_css: style
 sitemap:
-  lastmod: 2017-08-23
+  lastmod: 2017-08-23 00:00:00.000000000 Z
   priority: 0.7
-  changefreq: 'monthly'
+  changefreq: monthly
   exclude: 'yes'
-
 gems:
+<<<<<<< HEAD
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-seo-tag
   - html-proofer
   - jekyll-admin
+=======
+- jekyll-paginate
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-seo-tag
+- html-proofer
+>>>>>>> 54041366afa5eb037cb7e30d70ecbfbda6e32a1f
