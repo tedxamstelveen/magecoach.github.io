@@ -10,7 +10,7 @@ collections:
     output: true
 url: https://tedxamstelveen.com
 static-url: https://tedxamstelveen.com
-baseurl:
+baseurl: 
 name: TEDxAmstelveen
 domain-name: tedxamstelveen.com
 robots: INDEX,FOLLOW
@@ -39,7 +39,7 @@ compress_html:
   endings: all
 kramdown:
   enable_coderay: false
-  coderay:
+  coderay: 
   coderay_wrap: div
   coderay_line_numbers: inline
   coderay_line_number_start: 1
@@ -51,4 +51,4 @@ sitemap:
   priority: 0.7
   changefreq: monthly
   exclude: 'yes'
-gems:
+gems: 
