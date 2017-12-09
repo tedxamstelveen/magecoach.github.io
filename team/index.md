@@ -41,7 +41,7 @@ Het {{site.title}} evenement wordt georganiseerd door vrijwilligers uit Amstelve
 
    <amp-carousel class="tablet-down"
      width="auto"
-     height="425"
+     height="450"
      type="slides"
      layout="fixed-height">
      {% for member in site.data.team %}
