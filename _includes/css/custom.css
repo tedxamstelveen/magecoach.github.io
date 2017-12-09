@@ -491,10 +491,15 @@ amp-accordion ul{
     position: relative
 }
 
+@media only screen and (max-width: 415px) {
+    .box__image {
+      margin: -20px -75px 10px -20px
+    }
+}
+
 .box__image {
     float: right;
     width: 400px;
-    margin: 20px
 }
 
 .box__image amp-img {
