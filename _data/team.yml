@@ -1,0 +1,69 @@
+- name: Mette Reitsma
+  description: Initiator en teammanager
+  url: /team/mette-reitsma
+  pic: mette-reitsma
+  position: 1
+  status: active
+
+- name: Ray Bogman
+  description: Tech Lead
+  url: /team/ray-bogman
+  pic: ray-bogman
+  position: 2
+  status: active
+
+- name: Mandy Phoa
+  description: Sprekerscoach
+  url: /team/mandy-phoa
+  pic: mandy-phoa
+  position: 3
+  status: active
+
+- name: Maarten Oosterhoff
+  description: Sprekerscoach
+  url: /team/maarten-oosterhoff
+  pic: maarten-oosterhoff
+  position: 4
+  status: active
+
+- name: Edward Stronach Hardy
+  description: Sprekerscoach
+  url: /team/edward-stronach-hardy
+  pic: edward-stronach-hardy
+  position: 5
+  status: active
+
+- name: Jennifer van Balkom
+  description: Sprekerscoach
+  url: /team/jennifer-van-balkom
+  pic: jennifer-van-balkom
+  position: 6
+  status: active
+
+- name: Frank Bossema
+  description: Sprekerscoach
+  url: /team/frank-bossema
+  pic: frank-bossema
+  position: 7
+  status: active
+
+- name: Esther Kwaaitaal
+  description: Productie manager
+  url: /team/esther-kwaaitaal
+  pic: esther-kwaaitaal
+  position: 8
+  status: active
+
+- name: Bas Koppelman
+  description: Adviseur en voorzitter bestuur
+  url: /team/bas-koppelman
+  pic: bas-koppelman
+  position: 9
+  status: active
+
+- name: Marianne van der Meer
+  description: Bestuurslid
+  url: /team/marianne-van-der-meer
+  pic: marianne-van-der-meer
+  position: 10
+  status: active
