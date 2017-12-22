@@ -2,9 +2,9 @@
 title: TEDx Amstelveen - 16 Maart 2018 - 'Verbinding'
 layout: startpage
 description: TEDx Amstelveen - 16 Maart 2018 - 'Verbinding'
-keywords:
+keywords: 
 nav: start
-image:
+image: 
 ---
 
 <div class="banner"></div>
