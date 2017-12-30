@@ -2,7 +2,8 @@
 title: Thema Verbinding
 date: 2017-12-30 00:00:00 Z
 layout: default
-description: Het thema voor TEDxAmstelveen 2018 is Verbinding. Hoe verbinden we ons met de wereld om ons heen?
+description: Het thema voor TEDxAmstelveen 2018 is Verbinding. Hoe verbinden we ons
+  met de wereld om ons heen?
 image: "/img/blog/thema-verbinding.png"
 height: 500
 width: 952
@@ -10,9 +11,10 @@ authorimage: "/img/team/ray.svg"
 authorname: Mette Reitsma
 datePublished: 2017-12-30 00:00:00 Z
 dateModified: 2017-12-30 00:00:00 Z
-intro: Het thema voor TEDxAmstelveen 2018 is Verbinding. Wat doen we om verbinding te maken met onszelf, naasten, collega’s en buren. Hoe verbinden we ons met de wereld om ons heen?
-  naar de ANNA?
-keywords:
+intro: Het thema voor TEDxAmstelveen 2018 is Verbinding. Wat doen we om verbinding
+  te maken met onszelf, naasten, collega’s en buren. Hoe verbinden we ons met de wereld
+  om ons heen? naar de ANNA?
+keywords: 
 hits: 2
 nav: blog
 ---
