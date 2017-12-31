@@ -13,8 +13,8 @@ datePublished: 2017-10-18 00:00:00 Z
 dateModified: 2017-10-18 00:00:00 Z
 intro: Om het evenement toegankelijk en laagdrempelig te houden doen we een beroep
   op sponsoren om ons evenement kostendekkend uit te voeren.
-keywords: 
-hits: 4
+keywords:
+hits: 99
 nav: blog
 ---
 

@@ -13,12 +13,12 @@ datePublished: 2017-12-31 00:00:00 Z
 dateModified: 2017-12-31 00:00:00 Z
 intro: Op de valreep van 2017 maken wij onze eerste spreker bekend. Op het podium
   van TEDxAmstelveen staat Roy Groot.
-keywords: 
-hits: 99
+keywords:
+hits: 4
 nav: blog
 ---
 
-# Thema Verbinding
+# Bekendmaking eerste spreker TEDxAmstelveen 2018
 
 <a href="{{site.url}}{{page.url}}" title="{{ page.title }}"><amp-img noloading width="250" height="250" alt="{{ page.title }}" layout="responsive" src="{{site.url}}{{ page.image }}" class="photo pull-left"></amp-img></a>
 
