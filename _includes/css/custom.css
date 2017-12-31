@@ -32,7 +32,6 @@
   background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -100px /100% no-repeat;
 }
 
-
 .white {
   background-color: #ffffff;
   padding: 20px;
@@ -505,4 +504,9 @@ amp-accordion ul{
 
 .box__image amp-img {
     overflow: hidden
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+  .hero {
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -50px /100% no-repeat;
 }
