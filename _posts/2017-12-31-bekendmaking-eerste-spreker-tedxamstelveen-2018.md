@@ -2,7 +2,8 @@
 title: Bekendmaking eerste spreker TEDxAmstelveen 2018
 date: 2017-12-31 00:00:00 Z
 layout: default
-description: Op de valreep van 2017 maken wij onze eerste spreker bekend. Op het podium van TEDxAmstelveen staat Roy Groot.
+description: Op de valreep van 2017 maken wij onze eerste spreker bekend. Op het podium
+  van TEDxAmstelveen staat Roy Groot.
 image: "/img/sprekers/roy-groot.png"
 height: 500
 width: 750
@@ -10,8 +11,9 @@ authorimage: "/img/team/ray.svg"
 authorname: Mette Reitsma
 datePublished: 2017-12-31 00:00:00 Z
 dateModified: 2017-12-31 00:00:00 Z
-intro: Op de valreep van 2017 maken wij onze eerste spreker bekend. Op het podium van TEDxAmstelveen staat Roy Groot.
-keywords:
+intro: Op de valreep van 2017 maken wij onze eerste spreker bekend. Op het podium
+  van TEDxAmstelveen staat Roy Groot.
+keywords: 
 hits: 99
 nav: blog
 ---
