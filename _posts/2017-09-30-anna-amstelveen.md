@@ -12,7 +12,7 @@ datePublished: 2017-09-30 00:00:00 Z
 dateModified: 2017-09-30 00:00:00 Z
 intro: ANNA wordt de locatie voor onze eerste TEDxAmstelveen. De Annakerk wordt momenteel
   omgebouwd tot de ontmoetingsplek van Amstelveen.
-keywords:
+keywords: 
 hits: 99
 nav: blog
 layout: default

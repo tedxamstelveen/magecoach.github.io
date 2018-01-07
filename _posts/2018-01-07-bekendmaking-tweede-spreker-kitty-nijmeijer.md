@@ -13,7 +13,7 @@ datePublished: 2018-01-07 00:00:00 Z
 dateModified: 2018-01-07 00:00:00 Z
 intro: Vol trots presenteert TEDxAmstelveen als tweede spreker Kitty Nijmeijer. Kitty
   is chemische specialist verbonden aan de TU Eindhoven.
-keywords:
+keywords: 
 hits: 3
 nav: blog
 ---
