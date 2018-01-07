@@ -2,7 +2,8 @@
 title: Bekendmaking tweede spreker Kitty Nijmeijer
 date: 2018-01-07 00:00:00 Z
 layout: default
-description: Ze was eerder al te gast bij de DWDD en bij de Universiteit van Nederland. Prof. Dr. Ir. Kitty Nijmeijer is verbonden aan de TU Eindhoven.
+description: Ze was eerder al te gast bij de DWDD en bij de Universiteit van Nederland.
+  Prof. Dr. Ir. Kitty Nijmeijer is verbonden aan de TU Eindhoven.
 image: "/img/sprekers/kitty-nijmeijer.png"
 height: 500
 width: 750
@@ -10,8 +11,9 @@ authorimage: "/img/team/ray.svg"
 authorname: Mette Reitsma
 datePublished: 2018-01-07 00:00:00 Z
 dateModified: 2018-01-07 00:00:00 Z
-intro: Ze was eerder al te gast bij de DWDD en bij de Universiteit van Nederland. Prof. Dr. Ir. Kitty Nijmeijer is verbonden aan de TU Eindhoven.
-keywords:
+intro: Ze was eerder al te gast bij de DWDD en bij de Universiteit van Nederland.
+  Prof. Dr. Ir. Kitty Nijmeijer is verbonden aan de TU Eindhoven.
+keywords: 
 hits: 3
 nav: blog
 ---
