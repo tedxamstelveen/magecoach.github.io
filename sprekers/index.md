@@ -2,9 +2,9 @@
 title: TEDxAmstelveen Sprekers
 layout: default
 description: Overzicht van alle sprekers van TEDxAmstelveen.
-keywords:
+keywords: 
 nav: sprekers
-image:
+image: 
 ---
 
 # Sprekers
