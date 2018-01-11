@@ -1,0 +1,20 @@
+- name: Roy Groot
+  description: Roy Groot
+  url: /team/roy-groot
+  pic: roy-groot
+  position: 1
+  status: active
+
+- name: Kitty Nijmeijer
+  description: Kitty Nijmeijer
+  url: /team/kitty-mijmeijer
+  pic: kitty-mijmeijer
+  position: 2
+  status: active
+
+- name: Vincent Wever
+  description: Vincent Wever
+  url: /team/vincent-wever
+  pic: vincent-wever
+  position: 3
+  status: active
