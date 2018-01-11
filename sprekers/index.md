@@ -2,9 +2,9 @@
 title: TEDxAmstelveen Sprekers
 layout: default
 description: Overzicht van alle sprekers van TEDxAmstelveen.
-keywords: 
+keywords:
 nav: sprekers
-image: 
+image:
 ---
 
 # Sprekers
@@ -20,11 +20,11 @@ Op {{site.title}} 2018 zullen er 8 tot 10 sprekers zijn met talks tussen de 5 en
            <a title="{{ member.name }}" href="{{ member.url }}">
            <amp-img
                noloading
-               height="100"
-               width="100"
+               height="400"
+               width="400"
                alt="{{ member.name }}"
                layout="responsive"
-               src="/img/team/{{ member.pic }}.jpg">
+               src="/img/sprekers/{{ member.pic }}.jpg">
            </amp-img></a>
          </div>
          <div class="card__content">
@@ -52,11 +52,11 @@ Op {{site.title}} 2018 zullen er 8 tot 10 sprekers zijn met talks tussen de 5 en
          <a title="{{ member.name }}" href="{{ member.url }}">
          <amp-img
              noloading
-             height="200"
-             width="200"
+             height="400"
+             width="400"
              alt="{{ member.name }}"
              layout="responsive"
-             src="/img/team/{{ member.pic }}.jpg">
+             src="/img/sprekers/{{ member.pic }}.jpg">
          </amp-img></a>
        </div>
        <div class="card__content">
