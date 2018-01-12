@@ -1,3 +1,9 @@
+.signup {
+  background-color: rgb(230, 43, 30);
+  font-family: cursive;
+  color: #000;
+}
+
 .check {
     padding-left: 0;
     margin-left: 2.14285714em;
@@ -515,8 +521,4 @@ amp-accordion ul{
   .hero {
     height: 200px;
     background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -50px /100% no-repeat;
-}
-
-.signup a {
-  background-color: rgb(230, 43, 30);
 }
