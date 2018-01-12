@@ -517,6 +517,6 @@ amp-accordion ul{
     background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -50px /100% no-repeat;
 }
 
-.signup {
-  background-color: rgb(230, 43, 30)
+.signup a {
+  background-color: rgb(230, 43, 30);
 }
