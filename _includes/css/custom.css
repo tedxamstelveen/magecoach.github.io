@@ -512,9 +512,10 @@ amp-accordion ul{
     overflow: hidden
 }
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 480px) {
   .hero {
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -50px /100% no-repeat;
+    height: 130px;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 0px /100% no-repeat;
 }
 
 @media only screen and (min-width:321px) and (max-width:768px) {
@@ -523,8 +524,7 @@ amp-accordion ul{
     background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -50px /100% no-repeat;
 }
 
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 1024px) {
   .hero {
-    height: 130px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 0px /100% no-repeat;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -50px /100% no-repeat;
 }
