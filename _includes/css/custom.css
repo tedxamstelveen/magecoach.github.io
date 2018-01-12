@@ -512,21 +512,21 @@ amp-accordion ul{
     overflow: hidden
 }
 
-@media only screen and (min-width : 320px) {
+@media only screen and (min-width: 320px) {
+  .hero {
+    height: 120px;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 0px /100% no-repeat;
+}
+
+@media only screen and (min-width: 480px) {
   .hero {
     height: 130px;
     background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 0px /100% no-repeat;
 }
 
-@media only screen and (min-width : 480px) {
+@media only screen and (min-width: 768px) {
   .hero {
-    height: 130px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 0px /100% no-repeat;
-}
-
-@media only screen and (min-width:768px) {
-  .hero {
-    height: 200px;
+    height: 230px;
     background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -50px /100% no-repeat;
 }
 
