@@ -13,8 +13,8 @@ datePublished: 2018-01-06 00:00:00 Z
 dateModified: 2018-01-06 00:00:00 Z
 intro: Wil jij er graag bij zijn op 16 maart 2018 van 13:00 tot 17:00? De voorinschrijving
   opent op 13 januari.
-keywords: 
-hits: 3
+keywords:
+hits: 99
 nav: blog
 ---
 

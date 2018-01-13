@@ -13,8 +13,8 @@ datePublished: 2018-01-11 00:00:00 Z
 dateModified: 2018-01-11 00:00:00 Z
 intro: Vincent Wever is hoofdredacteur van OV-Magazine, platform voor professionals
   in de ov-sector. Hij laat je anders kijken...
-keywords: 
-hits: 2
+keywords:
+hits: 3
 nav: blog
 ---
 
