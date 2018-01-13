@@ -2,7 +2,9 @@
 title: TEDxAmstelveen Voorinschrijving is geopend
 date: 2018-01-13 00:00:00 Z
 layout: default
-description: Wil jij er graag bij zijn op 16 maart 2018? Door je nu in te schrijven krijg jij straks als eerste de gelegenheid om een van de 100 beschikbare plaatsen te bemachtigen.
+description: Wil jij er graag bij zijn op 16 maart 2018? Door je nu in te schrijven
+  krijg jij straks als eerste de gelegenheid om een van de 100 beschikbare plaatsen
+  te bemachtigen.
 image: "/img/blog/tedxamstelveen-inschrijving.png"
 height: 500
 width: 750
@@ -10,8 +12,9 @@ authorimage: "/img/team/ray.svg"
 authorname: Mette Reitsma
 datePublished: 2018-01-13 00:00:00 Z
 dateModified: 2018-01-13 00:00:00 Z
-intro: Wil jij er graag bij zijn op 16 maart 2018? Door je nu in te schrijven krijg jij straks als eerste de gelegenheid om een van de 100 beschikbare plaatsen te bemachtigen.
-keywords:
+intro: Wil jij er graag bij zijn op 16 maart 2018? Door je nu in te schrijven krijg
+  jij straks als eerste de gelegenheid om een van de 100 beschikbare plaatsen te bemachtigen.
+keywords: 
 hits: 2
 nav: blog
 ---
