@@ -14,7 +14,7 @@ dateModified: 2017-12-30 00:00:00 Z
 intro: Het thema voor TEDxAmstelveen 2018 is Verbinding. Wat doen we om verbinding
   te maken met onszelf, naasten, collega’s en buren. Hoe verbinden we ons met de wereld
   om ons heen? naar de ANNA?
-keywords:
+keywords: 
 hits: 99
 nav: blog
 ---

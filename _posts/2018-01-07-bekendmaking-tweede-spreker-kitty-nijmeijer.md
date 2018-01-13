@@ -13,7 +13,7 @@ datePublished: 2018-01-07 00:00:00 Z
 dateModified: 2018-01-07 00:00:00 Z
 intro: Ze was eerder al te gast bij de DWDD en bij de Universiteit van Nederland.
   Prof. Dr. Ir. Kitty Nijmeijer is verbonden aan de TU Eindhoven.
-keywords:
+keywords: 
 hits: 4
 nav: blog
 ---
