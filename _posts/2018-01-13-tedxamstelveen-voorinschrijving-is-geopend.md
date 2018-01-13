@@ -18,6 +18,8 @@ nav: blog
 
 # TEDxAmstelveen Voorinschrijving is geopend
 
-<a href="{{site.url}}{{page.url}}" title="{{ page.title }}"><amp-img noloading width="250" height="250" alt="{{ page.title }}" layout="responsive" src="{{site.url}}{{ page.image }}" class="photo pull-left"></amp-img></a>
+<a href="https://goo.gl/r7DLxe" title="{{ page.title }}"><amp-img noloading width="250" height="250" alt="{{ page.title }}" layout="responsive" src="{{site.url}}{{ page.image }}" class="photo pull-left"></amp-img></a>
 
 Wil jij er graag bij zijn op 16 maart 2018? Door je nu in te schrijven krijg jij straks als eerste de gelegenheid om een van de 100 beschikbare plaatsen te bemachtigen. Schrijf je in en krijg voorrang bij de kaartverkoop! Kaarten kosten €25,- inclusief drankjes, vermaak en een middag met ideas worth spreading.
+
+Inschrijven kan middels deze [https://goo.gl/r7DLxe](link).
