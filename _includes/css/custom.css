@@ -34,7 +34,7 @@
   color: #fff;
   background-color: #e62b1e;
   max-width: 2580px;
-  background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -100px /100% no-repeat;
+  background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 -100px /100% no-repeat;
 }
 
 .white {
@@ -514,23 +514,23 @@ amp-accordion ul{
 @media only screen and (min-width: 320px) {
   .hero {
     height: 120px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 0px /100% no-repeat;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 0px /100% no-repeat;
 }
 
 @media only screen and (min-width: 480px) {
   .hero {
     height: 130px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 0px /100% no-repeat;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 0px /100% no-repeat;
 }
 
 @media only screen and (min-width: 768px) {
   .hero {
     height: 230px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -25px /100% no-repeat;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 -25px /100% no-repeat;
 }
 
 @media only screen and (min-width: 1024px) {
   .hero {
     height: 400px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero.jpg) 0 -50px /100% no-repeat;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 -50px /100% no-repeat;
 }
