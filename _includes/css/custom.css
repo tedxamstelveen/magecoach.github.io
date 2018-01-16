@@ -86,10 +86,7 @@ height: 32px;
 hr {
 margin-top: 20px;
 margin-bottom: 20px;
-border: 0;
-border-top: solid 0px rgb(230, 43, 30);
-box-sizing: content-box;
-height: 0;
+border-top: solid 5px rgb(230, 43, 30);
 }
 
 footer p {
