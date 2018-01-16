@@ -1,3 +1,11 @@
+.social a {
+  display: block;
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin-left: 3px;
+}
+
 .signup {
   background-color: rgb(230, 43, 30);
   color: #000;
