@@ -2,7 +2,9 @@
 title: TEDxAmstelveen presenteert spreker Rinie Hoeks
 date: 2018-01-16 00:00:00 Z
 layout: default
-description: Rinie werkt als adviseur dyslexie en vreemde talen. Ze geeft cursus over het thema dyslexie en Engels. Van haar hand zijn ook materialen op dit gebied verschenen ter ondersteuning van leerlingen met dyslexie.
+description: Rinie werkt als adviseur dyslexie en vreemde talen. Ze geeft cursus over
+  het thema dyslexie en Engels. Van haar hand zijn ook materialen op dit gebied verschenen
+  ter ondersteuning van leerlingen met dyslexie.
 image: "/img/sprekers/rinie-hoeks.png"
 height: 500
 width: 750
@@ -10,8 +12,10 @@ authorimage: "/img/team/ray.svg"
 authorname: Mette Reitsma
 datePublished: 2018-01-16 00:00:00 Z
 dateModified: 2018-01-16 00:00:00 Z
-intro: Rinie werkt als adviseur dyslexie en vreemde talen. Ze geeft cursus over het thema dyslexie en Engels. Van haar hand zijn ook materialen op dit gebied verschenen ter ondersteuning van leerlingen met dyslexie.
-keywords:
+intro: Rinie werkt als adviseur dyslexie en vreemde talen. Ze geeft cursus over het
+  thema dyslexie en Engels. Van haar hand zijn ook materialen op dit gebied verschenen
+  ter ondersteuning van leerlingen met dyslexie.
+keywords: 
 hits: 2
 nav: blog
 ---
