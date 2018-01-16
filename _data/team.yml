@@ -67,3 +67,17 @@
   pic: marianne-van-der-meer
   position: 10
   status: active
+
+- name: Ollie Vrijmoed
+  description: Marketing & Communicatie Manager
+  url: /team/ollie-vrijmoed
+  pic: ollie-vrijmoed
+  position: 11
+  status: active
+
+- name: Merel Funke
+  description: Event planner
+  url: /team/merel-funke
+  pic: merel-funke
+  position: 12
+  status: active
