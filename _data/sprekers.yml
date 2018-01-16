@@ -18,3 +18,10 @@
   pic: vincent-wever
   position: 3
   status: active
+
+- name: Rinie Hoeks
+  description: Rinie Hoeks
+  url: /sprekers/rinie-hoeks
+  pic: rinie-hoeks
+  position: 4
+  status: active
