@@ -508,7 +508,7 @@ amp-accordion ul{
     overflow: hidden
 }
 
-@media only screen and (min-width: 320px) and (max-width 479px) {
+@media only screen and (min-width: 320px) {
   .hero {
     height: 120px;
     background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 0px /100% no-repeat;
