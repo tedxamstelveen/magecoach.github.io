@@ -541,11 +541,23 @@ amp-accordion ul{
     height: 230px;
     background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 -25px /100% no-repeat;
   }
+
+  .socialnav a {
+    width: 0px;
+    float: inherit;
+    margin: 0;
+  }
 }
 
 @media only screen and (min-width: 1024px) {
   .hero {
     height: 400px;
     background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 -50px /100% no-repeat;
+  }
+
+  .socialnav a {
+    width: 0px;
+    float: inherit;
+    margin: 0;
   }
 }
