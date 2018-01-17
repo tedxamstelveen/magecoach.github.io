@@ -522,14 +522,6 @@ amp-accordion ul{
 
 }
 
-/* Portrait and Landscape */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
-  .hero {
-    height: 275px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 -25px /100% no-repeat;
-  }
-}
-
 @media only screen and (min-width: 768px) {
   .hero {
     height: 230px;
@@ -544,4 +536,12 @@ amp-accordion ul{
     background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 -50px /100% no-repeat;
   }
 
+}
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+  .hero {
+    height: 275px;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 -25px /100% no-repeat;
+  }
 }
