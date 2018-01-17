@@ -508,24 +508,16 @@ amp-accordion ul{
     overflow: hidden
 }
 
-@media only screen and (min-width: 320px) {
+@media only screen and (min-width: 320px) and (max-width: 480px) {
   .hero {
-    height: 120px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 0px /100% no-repeat;
+    height: 130px;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 5px /100% no-repeat;
   }
 
   .socialnav a {
     width: 60px;
     float: left;
     margin: 10px 10px 0 0;
-  }
-
-}
-
-@media only screen and (min-width: 480px) {
-  .hero {
-    height: 130px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart.jpg) 0 0px /100% no-repeat;
   }
 
 }
