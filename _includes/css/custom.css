@@ -518,6 +518,7 @@ amp-accordion ul{
     width: 60px;
     float: left;
     margin: 10px 10px 0 0;
+    padding-top: 10px;
   }
 
 }
@@ -558,5 +559,6 @@ amp-accordion ul{
       width: 60px;
       float: left;
       margin: 10px 10px 0 0;
+      padding-top: 10px;
     }
 }
