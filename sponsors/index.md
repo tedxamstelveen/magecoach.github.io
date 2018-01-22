@@ -25,7 +25,7 @@ TEDxAmstelveen 2018 wordt mede mogelijk gemaakt door de geweldige hulp van:
            <amp-img
                noloading
                height="200"
-               width="200"
+               width="400"
                alt="{{ member.name }}"
                layout="responsive"
                src="/img/sponsors/{{ member.pic }}.jpg">
@@ -53,7 +53,7 @@ TEDxAmstelveen 2018 wordt mede mogelijk gemaakt door de geweldige hulp van:
       <amp-img
           noloading
           height="200"
-          width="200"
+          width="400"
           alt="{{ member.name }}"
           layout="responsive"
           src="/img/sponsors/{{ member.pic }}.jpg">
