@@ -1,4 +1,11 @@
-- name: 
-  pic:
+- name: Rabobank
+  pic: rabobank
+  url: https://www.rabobank.nl/lokale-bank/amstel-en-vecht/
   position: 1
+  status: active
+
+- name: Studio Stipt
+  pic: studiostipt
+  url: http://www.studiostipt.nl/
+  position: 2
   status: active

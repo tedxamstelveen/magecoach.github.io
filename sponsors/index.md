@@ -2,9 +2,9 @@
 title: TEDxAmstelveen Sponsors
 layout: default
 description: Overzicht van alle sponsoren van TEDxAmstelveen.
-keywords: 
+keywords:
 nav: sponsors
-image: 
+image:
 ---
 
 # Sponsor
@@ -15,13 +15,54 @@ Om het evenement toegankelijk en laagdrempelig te houden doen we een beroep op s
 <br>
 TEDxAmstelveen 2018 wordt mede mogelijk gemaakt door de geweldige hulp van:
 
-<< sponsoren >>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div class="tablet-up">
+     <div class="card-container">
+       {% for member in site.data.sponsors %}
+       {% if member.status == 'active' %}
+       <div class="card">
+         <div class="card__image">
+           <a title="{{ member.name }}" href="{{ member.url }}">
+           <amp-img
+               noloading
+               height="200"
+               width="200"
+               alt="{{ member.name }}"
+               layout="responsive"
+               src="/img/sponsors/{{ member.pic }}.jpg">
+           </amp-img></a>
+         </div>
+         <div class="card__content">
+           <h3 class="card__title"><a title="{{ member.name }}" href="{{ member.url }}">{{ member.name }}</a></h3>
+         </div>
+       </div>
+       {% endif %}
+       {% endfor %}
+     </div>
+</div>
+
+<amp-carousel class="tablet-down"
+  width="auto"
+  height="450"
+  type="slides"
+  layout="fixed-height">
+  {% for member in site.data.sponsors %}
+  {% if member.status == 'active' %}
+  <div class="card">
+    <div class="card__image">
+      <a title="{{ member.name }}" href="{{ member.url }}">
+      <amp-img
+          noloading
+          height="200"
+          width="200"
+          alt="{{ member.name }}"
+          layout="responsive"
+          src="/img/sponsors/{{ member.pic }}.jpg">
+      </amp-img></a>
+    </div>
+    <div class="card__content">
+      <h3 class="card__title"><a title="{{ member.name }}" href="{{ member.url }}">{{ member.name }}</a></h3>
+    </div>
+  </div>
+{% endif %}
+{% endfor %}
+</amp-carousel>
