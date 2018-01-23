@@ -25,3 +25,10 @@
   pic: rinie-hoeks
   position: 4
   status: active
+
+- name: Aleid Offerhaus
+  description: Aleid Offerhaus
+  url: /sprekers/aleid-offerhaus
+  pic: aleid-offerhaus
+  position: 5
+  status: active
