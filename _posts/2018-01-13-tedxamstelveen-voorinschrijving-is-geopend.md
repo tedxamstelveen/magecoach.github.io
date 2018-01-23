@@ -14,8 +14,8 @@ datePublished: 2018-01-13 00:00:00 Z
 dateModified: 2018-01-13 00:00:00 Z
 intro: Wil jij er graag bij zijn op 16 maart 2018? Door je nu in te schrijven krijg
   jij straks als eerste de gelegenheid om een van de 100 beschikbare plaatsen te bemachtigen.
-keywords: 
-hits: 2
+keywords:
+hits: 4
 nav: blog
 ---
 
