@@ -37,7 +37,7 @@ TEDxAmstelveen 2018 wordt mede mogelijk gemaakt door de geweldige hulp van:
 
 <amp-carousel class="tablet-down"
   width="auto"
-  height="200"
+  height="250"
   type="slides"
   layout="fixed-height">
   {% for member in site.data.sponsors %}
