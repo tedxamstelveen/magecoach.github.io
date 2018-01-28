@@ -3,7 +3,7 @@ title: Sluiting voorinschrijving TEDxAmstelveen
 date: 2018-01-28 00:00:00 Z
 layout: default
 description: De voorinschrijving is gesloten. We zijn blij met zoveel belangstelling voor TEDxAmstelveen. Binnen een week hadden we al meer dan 100 inschrijvingen.
-image: "/img/sprekers/tedxamstelveen-wachtlijst.jpg"
+image: "/img/blog/tedxamstelveen-wachtlijst.jpg"
 height: 500
 width: 750
 authorimage: "/img/team/ray.svg"
