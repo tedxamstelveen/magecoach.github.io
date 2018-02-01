@@ -2,7 +2,7 @@
 title: TEDxAmstelveen presenteert spreker Pim Giel
 date: 2018-02-01 00:00:00 Z
 layout: default
-description:
+description: Hoe breng je ernstig maatschappelijke thema’s op een frisse manier onder het voetlicht? Als regisseur maakte Pim de afgelopen jaren films over de zorgsector, zoals chronische pijn en dementie.
 image: "/img/sprekers/pim-giel.png"
 height: 500
 width: 750
@@ -10,7 +10,7 @@ authorimage: "/img/team/ray.svg"
 authorname: Mette Reitsma
 datePublished: 2018-02-01 00:00:00 Z
 dateModified: 2018-02-01 00:00:00 Z
-intro:
+intro: Hoe breng je ernstig maatschappelijke thema’s op een frisse manier onder het voetlicht? Als regisseur maakte Pim de afgelopen jaren films over de zorgsector, zoals chronische pijn en dementie.
 keywords:
 hits: 2
 nav: blog
