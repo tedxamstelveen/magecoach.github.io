@@ -12,7 +12,7 @@ datePublished: 2018-01-28 00:00:00 Z
 dateModified: 2018-01-28 00:00:00 Z
 intro: De voorinschrijving is gesloten. We zijn blij met zoveel belangstelling voor TEDxAmstelveen. Binnen een week hadden we al meer dan 100 inschrijvingen.
 keywords:
-hits: 2
+hits: 3
 nav: blog
 ---
 

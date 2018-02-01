@@ -16,7 +16,7 @@ intro: Rinie werkt als adviseur dyslexie en vreemde talen. Ze geeft cursus over 
   thema dyslexie en Engels. Van haar hand zijn ook materialen op dit gebied verschenen
   ter ondersteuning van leerlingen met dyslexie.
 keywords:
-hits: 4
+hits: 99
 nav: blog
 ---
 

@@ -32,3 +32,10 @@
   pic: aleid-offerhaus
   position: 5
   status: active
+
+- name: Pim Giel
+  description: Pim Giel
+  url: /sprekers/pim-giel
+  pic: pim-giel
+  position: 6
+  status: active
