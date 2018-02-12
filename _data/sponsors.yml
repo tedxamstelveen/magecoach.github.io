@@ -9,3 +9,15 @@
   url: http://www.studiostipt.nl/
   position: 2
   status: active
+
+- name: Van Schouten
+  pic: michel-van-schouten
+  url: http://www.van-schouten.nl/
+  position: 3
+  status: active
+
+- name: Han Schooneman
+  pic: han-schooneman
+  url: https://www.schoonemandesign.nl/
+  position: 4
+  status: active
