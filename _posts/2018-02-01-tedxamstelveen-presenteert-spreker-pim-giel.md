@@ -12,7 +12,7 @@ datePublished: 2018-02-01 00:00:00 Z
 dateModified: 2018-02-01 00:00:00 Z
 intro: Hoe breng je ernstig maatschappelijke thema’s op een frisse manier onder het voetlicht? Als regisseur maakte Pim de afgelopen jaren films over de zorgsector, zoals chronische pijn en dementie.
 keywords:
-hits: 2
+hits: 3
 nav: blog
 ---
 

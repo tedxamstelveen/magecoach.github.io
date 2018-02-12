@@ -39,3 +39,10 @@
   pic: pim-giel
   position: 6
   status: active
+
+- name: Jeroen de Graaf
+  description: Jeroen de Graaf
+  url: /sprekers/jeroen-de-graaf
+  pic: jeroen-de-graaf
+  position: 7
+  status: active
