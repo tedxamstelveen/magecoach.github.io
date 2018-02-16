@@ -1,6 +1,6 @@
 ---
 title: TEDxAmstelveen presenteert spreker Jeroen de Graaf
-date: 2018-02-01 00:00:00 Z
+date: 2018-02-12 00:00:00 Z
 layout: default
 description: Wat we niet weten, kunnen we ook niet zien. Lichaamstaal of ook wel bodylanguage is een erg boeiend onderwerp, want als we een handgebaar of een spiertrekking zien, wat betekent dat precies?
 image: "/img/sprekers/jeroen-de-graaf.png"
@@ -12,7 +12,7 @@ datePublished: 2018-02-12 00:00:00 Z
 dateModified: 2018-02-12 00:00:00 Z
 intro: Wat we niet weten, kunnen we ook niet zien. Lichaamstaal of ook wel bodylanguage is een erg boeiend onderwerp, want als we een handgebaar of een spiertrekking zien, wat betekent dat precies?
 keywords:
-hits: 2
+hits: 3
 nav: blog
 ---
 
