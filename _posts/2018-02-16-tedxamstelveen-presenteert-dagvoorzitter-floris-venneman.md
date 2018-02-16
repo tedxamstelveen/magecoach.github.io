@@ -3,7 +3,7 @@ title: TEDxAmstelveen presenteert dagvoorzitter Floris Venneman
 date: 2018-02-16 00:00:00 Z
 layout: default
 description: Op 16 maart worden onze gasten welkom geheten door Floris Venneman. Hij neemt onze gasten mee in deze eerste TEDxAmstelveen ervaring.  
-image: "/img/spreker/floris-venneman.png"
+image: "/img/sprekers/floris-venneman.png"
 height: 500
 width: 750
 authorimage: "/img/team/ray.svg"
