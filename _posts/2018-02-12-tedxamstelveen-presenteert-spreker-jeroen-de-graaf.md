@@ -12,7 +12,7 @@ datePublished: 2018-02-12 00:00:00 Z
 dateModified: 2018-02-12 00:00:00 Z
 intro: Wat we niet weten, kunnen we ook niet zien. Lichaamstaal of ook wel bodylanguage is een erg boeiend onderwerp, want als we een handgebaar of een spiertrekking zien, wat betekent dat precies?
 keywords:
-hits: 4
+hits: 99
 nav: blog
 ---
 

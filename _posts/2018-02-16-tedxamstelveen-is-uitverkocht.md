@@ -12,7 +12,7 @@ datePublished: 2018-02-16 00:00:00 Z
 dateModified: 2018-02-16 00:00:00 Z
 intro: Vorige week is de kaartverkoop gestart voor iedereen die zich van tevoren had ingeschreven. Binnen een paar dagen was het uitverkocht!
 keywords:
-hits: 3
+hits: 4
 nav: blog
 ---
 
