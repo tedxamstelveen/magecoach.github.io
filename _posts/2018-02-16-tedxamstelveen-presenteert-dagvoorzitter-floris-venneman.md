@@ -12,7 +12,7 @@ datePublished: 2018-02-16 00:00:00 Z
 dateModified: 2018-02-16 00:00:00 Z
 intro: Op 16 maart worden onze gasten welkom geheten door Floris Venneman. Hij neemt onze gasten mee in deze eerste TEDxAmstelveen ervaring.  
 keywords:
-hits: 1
+hits: 2
 nav: blog
 ---
 
