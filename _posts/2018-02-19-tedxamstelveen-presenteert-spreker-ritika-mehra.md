@@ -12,7 +12,7 @@ datePublished: 2018-02-19 00:00:00 Z
 dateModified: 2018-02-19 00:00:00 Z
 intro: Wisten jullie dat er ruim 4000 mensen met Indiase afkomst in Amstelveen wonen? Ritika Mehra is oprichter van Bridging the Gap, een organisatie die de integratie van Indiase expats in de Nederlandse samenleving probeert te vergroten.
 keywords:
-hits: 1
+hits: 2
 nav: blog
 ---
 
