@@ -395,6 +395,13 @@ amp-accordion ul{
     box-shadow: 0px 3px 20px 0 rgba(0, 0, 0, 0.075);
     box-sizing: border-box;
     display: inline-block;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 21%;
+    flex: 0 0 31%;
+    -ms-flex: 0 0 calc(20% - 30px);
+    flex: 0 0 calc(20% - 30px);
+    -ms-flex-preferred-size: calc(20% - 30px);
+    flex-basis: calc(20% - 30px);
     height: 90%;
     margin: 10px 5px;
     padding: 10px;
