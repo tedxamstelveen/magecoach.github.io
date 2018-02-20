@@ -21,3 +21,21 @@
   url: https://www.schoonemandesign.nl/
   position: 4
   status: active
+
+- name: Marion Draaijer
+  pic: nouvelle-beauty
+  url: https://nouvellebeauty.wordpress.com/
+  position: 5
+  status: active
+
+- name: Loogman
+  pic: loogman
+  url: http://www.loogman.nl/
+  position: 6
+  status: active
+
+- name: Jumpstart
+  pic: jumpstart
+  url: http://www.jumpstart.nl/
+  position: 7
+  status: active
