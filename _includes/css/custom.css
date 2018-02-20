@@ -396,12 +396,12 @@ amp-accordion ul{
     box-sizing: border-box;
     display: inline-block;
     -webkit-box-flex: 0;
-    -ms-flex: 0 0 21%;
+    -ms-flex: 0 0 31%;
     flex: 0 0 31%;
-    -ms-flex: 0 0 calc(20% - 30px);
-    flex: 0 0 calc(20% - 30px);
-    -ms-flex-preferred-size: calc(20% - 30px);
-    flex-basis: calc(20% - 30px);
+    -ms-flex: 0 0 calc(30% - 0px);
+    flex: 0 0 calc(30% - 0px);
+    -ms-flex-preferred-size: calc(30% - 0px);
+    flex-basis: calc(30% - 0px);
     height: 90%;
     margin: 10px 5px;
     padding: 10px;
