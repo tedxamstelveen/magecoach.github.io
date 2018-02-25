@@ -2,7 +2,7 @@
 title: TEDxAmstelveen presenteert zangeres Evi De Jean
 date: 2018-02-25 00:00:00 Z
 layout: default
-description:
+description: Evi De Jean, zangeres en stemcoach, groeide op in Bermuda, Israël en Antwerpen en streek neer in Amsterdam, voor de liefde. Tijdens TEDxAmstelveen zal ze, samen met haar gitarist, optreden met eigen liedjes én geeft ze een inspirerende klankworkshop.
 image: "/img/blog/evi-de-jean.jpg"
 height: 500
 width: 750
@@ -10,7 +10,7 @@ authorimage: "/img/team/ray.svg"
 authorname: Mette Reitsma
 datePublished: 2018-02-25 00:00:00 Z
 dateModified: 2018-02-25 00:00:00 Z
-intro:
+intro: Evi De Jean, zangeres en stemcoach, groeide op in Bermuda, Israël en Antwerpen en streek neer in Amsterdam, voor de liefde. Tijdens TEDxAmstelveen zal ze, samen met haar gitarist, optreden met eigen liedjes én geeft ze een inspirerende klankworkshop.
 keywords:
 hits: 2
 nav: blog
