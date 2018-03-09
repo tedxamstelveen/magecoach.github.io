@@ -13,8 +13,8 @@ datePublished: 2017-09-19 00:00:00 Z
 dateModified: 2017-09-19 00:00:00 Z
 intro: TED is een wereldwijde organisatie van vrijwilligers en partners die geloven
   in de kracht van het verspreiden van ideeen via TED talks.
-keywords: 
-hits: 1
+keywords:
+hits: 2
 nav: blog-video
 ---
 
