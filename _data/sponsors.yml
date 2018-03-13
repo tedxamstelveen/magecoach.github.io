@@ -39,3 +39,9 @@
   url: http://www.jumpstart.nl/
   position: 7
   status: active
+
+- name: Gemeente Amstelveen
+  pic: gemeente-amstelveen
+  url: https://www.amstelveen.nl/
+  position: 8
+  status: active
