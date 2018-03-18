@@ -10,7 +10,7 @@ collections:
     output: true
 url: https://tedxamstelveen.com
 static-url: https://tedxamstelveen.com
-baseurl: 
+baseurl:
 name: TEDxAmstelveen
 domain-name: tedxamstelveen.com
 robots: INDEX,FOLLOW
@@ -28,6 +28,8 @@ social:
   url: https://www.facebook.com/tedxamstelveen
 - title: youtube
   url: https://www.youtube.com/channel/UCEmelQhyVjPdN07V286mt6g
+- title: flickr
+  url: https://www.flickr.com/photos/tedxamstelveen
 exclude:
 - vendor
 markdown: kramdown
@@ -39,7 +41,7 @@ compress_html:
   endings: all
 kramdown:
   enable_coderay: false
-  coderay: 
+  coderay:
   coderay_wrap: div
   coderay_line_numbers: inline
   coderay_line_number_start: 1
@@ -51,4 +53,4 @@ sitemap:
   priority: 0.7
   changefreq: monthly
   exclude: 'yes'
-gems: 
+gems:

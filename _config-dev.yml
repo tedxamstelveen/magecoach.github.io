@@ -21,7 +21,8 @@ social:
     url: https://www.facebook.com/tedxamstelveen
   - title: youtube
     url: https://www.youtube.com/channel/UCEmelQhyVjPdN07V286mt6g
-
+  - title: flickr
+    url: https://www.flickr.com/photos/tedxamstelveen
 # Build settings
 exclude: [vendor]
 markdown: kramdown
