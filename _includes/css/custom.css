@@ -511,7 +511,7 @@ amp-accordion ul{
 @media only screen and (min-width: 320px) and (max-width: 480px) {
   .hero {
     height: 130px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart-uitverkocht.jpg) 0 5px /100% no-repeat;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart2018.jpg) 0 5px /100% no-repeat;
   }
 
   .socialnav a {
@@ -525,7 +525,7 @@ amp-accordion ul{
 @media only screen and (min-width: 768px) {
   .hero {
     height: 230px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart-uitverkocht.jpg) 0 -25px /100% no-repeat;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart2018.jpg) 0 -25px /100% no-repeat;
   }
 
 }
@@ -533,7 +533,7 @@ amp-accordion ul{
 @media only screen and (min-width: 1024px) {
   .hero {
     height: 400px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart-uitverkocht.jpg) 0 -50px /100% no-repeat;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart2018.jpg) 0 -50px /100% no-repeat;
   }
 
   .socialnav a {
@@ -545,7 +545,7 @@ amp-accordion ul{
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
   .hero {
     height: 300px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart-uitverkocht.jpg) 0 -25px /100% no-repeat;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart2018.jpg) 0 -25px /100% no-repeat;
   }
 }
 
@@ -554,7 +554,7 @@ amp-accordion ul{
   and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
     .hero {
       height: 230px;
-      background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart-uitverkocht.jpg) 0 -25px /100% no-repeat;
+      background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart2018.jpg) 0 -25px /100% no-repeat;
     }
 
     .socialnav a {
