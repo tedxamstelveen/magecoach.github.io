@@ -12,7 +12,7 @@ datePublished: 2018-03-09 00:00:00 Z
 dateModified: 2018-03-09 00:00:00 Z
 intro: Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We zijn compleet uitverkocht. Het heeft geen zin om naar de ANNA te komen zonder geldig toegangsbewijs.
 keywords:
-hits: 1
+hits: 3
 nav: blog
 ---
 
