@@ -6,10 +6,11 @@ keywords:
 nav: start
 image:
 ---
-
-<amp-carousel width="1280" height="400" layout="responsive" type="slides">
-  <amp-youtube height="400"
-    layout="fixed-height"
-    data-videoid="55klB4HdgLY">
-  </amp-youtube>
-</amp-carousel>
+<div class="col-1-4">
+  <amp-carousel width="320" height="240" layout="responsive" type="slides">
+    <amp-youtube height="240"
+      layout="fixed-height"
+      data-videoid="55klB4HdgLY">
+    </amp-youtube>
+  </amp-carousel>
+</div>
