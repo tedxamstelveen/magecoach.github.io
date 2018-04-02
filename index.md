@@ -7,8 +7,8 @@ nav: start
 image:
 ---
 
-<amp-carousel width="1280" height="1080" layout="responsive" type="slides">
-  <amp-youtube height="450"
+<amp-carousel width="1280" height="400" layout="responsive" type="slides">
+  <amp-youtube height="400"
     layout="fixed-height"
     data-videoid="55klB4HdgLY">
   </amp-youtube>
