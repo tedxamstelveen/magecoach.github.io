@@ -6,7 +6,7 @@ keywords:
 nav: start
 image:
 ---
-<div class="col-1-4">
+<div class="col-1-3">
   <amp-carousel width="320" height="240" layout="responsive" type="slides">
     <amp-youtube height="240"
       layout="fixed-height"
