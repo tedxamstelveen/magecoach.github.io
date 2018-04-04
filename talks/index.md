@@ -58,7 +58,7 @@ Op {{site.title}} 2018 stonden 9 sprekers op het podium met talks tussen 7 en 16
       <h3 class="card__title"><a title="{{ member.name }}" href="{{ member.url }}">{{ member.name }}</a></h3>
     </div>
     <div class="card__action">
-      <a title="{{ member.name }}" href="{{ member.url }}">Lees meer</a>
+      <a title="{{ member.name }}" href="{{ member.url }}">Bekijk de talk</a>
     </div>
   </div>
 {% endif %}
