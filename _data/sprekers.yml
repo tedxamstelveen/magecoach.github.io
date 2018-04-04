@@ -3,6 +3,8 @@
   url: /sprekers/roy-groot
   pic: roy-groot
   position: 1
+  year: 2018
+  video: HICThvHmZZ4
   status: active
 
 - name: Kitty Nijmeijer
@@ -10,12 +12,16 @@
   url: /sprekers/kitty-mijmeijer
   pic: kitty-nijmeijer
   position: 2
+  year: 2018
+  video:
   status: active
 
 - name: Vincent Wever
   description: Vincent Wever
   url: /sprekers/vincent-wever
   pic: vincent-wever
+  year: 2018
+  video: wRGmMKEtUYg
   position: 3
   status: active
 
@@ -23,6 +29,8 @@
   description: Rinie Hoeks
   url: /sprekers/rinie-hoeks
   pic: rinie-hoeks
+  year: 2018
+  video: h__zTrjkd60
   position: 4
   status: active
 
@@ -30,6 +38,8 @@
   description: Aleid Offerhaus
   url: /sprekers/aleid-offerhaus
   pic: aleid-offerhaus
+  year: 2018
+  video:
   position: 5
   status: active
 
@@ -37,6 +47,8 @@
   description: Pim Giel
   url: /sprekers/pim-giel
   pic: pim-giel
+  year: 2018
+  video:
   position: 6
   status: active
 
@@ -44,6 +56,8 @@
   description: Jeroen de Graaf
   url: /sprekers/jeroen-de-graaf
   pic: jeroen-de-graaf
+  year: 2018
+  video:
   position: 7
   status: active
 
@@ -51,6 +65,8 @@
   description: Ritika Mehra
   url: /sprekers/ritika-mehra
   pic: ritika-mehra
+  year: 2018
+  video:
   position: 8
   status: active
 
@@ -58,5 +74,7 @@
   description: Jennifer van Balkom
   url: /sprekers/jennifer-van-balkom
   pic: jennifer-van-balkom
+  year: 2018
+  video: U5CY4zEAbEA
   position: 9
   status: active
