@@ -46,15 +46,13 @@ Op {{site.title}} 2018 stonden 9 sprekers op het podium met talks tussen 7 en 16
   {% if member.status == 'active' %}
   <div class="card">
     <div class="card__image">
-      <a title="{{ member.name }}" href="{{ member.url }}">
-      <amp-img
-          noloading
-          height="200"
-          width="200"
-          alt="{{ member.name }}"
-          layout="responsive"
-          src="/img/sprekers/{{ member.pic }}.jpg">
-      </amp-img></a>
+
+      {% if member.video != null %}         
+        <amp-youtube height="240" layout="fixed-height" data-videoid="{{ member.video }}"> </amp-youtube>
+      {% else %}
+        <amp-img noloading height="200" width="200" alt="{{ member.name }}" layout="responsive" src="/img/sprekers/{{ member.pic }}.jpg"></amp-img>
+      {% endif %}
+
     </div>
     <div class="card__content">
       <h3 class="card__title"><a title="{{ member.name }}" href="{{ member.url }}">{{ member.name }}</a></h3>
