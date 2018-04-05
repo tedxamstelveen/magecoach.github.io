@@ -15,7 +15,9 @@ image:
   </amp-carousel>
 </div>
 <div class="col-1-3">
+</div>
+<div class="col-1-3">
   <div class="btn">
-    <a class="button button-primary" href="https://tedxamstelveen.com/talks/" title="run.mage.coach">Bekijk alle Talks hier</a>
+    <a class="button button-primary" href="https://tedxamstelveen.com/talks/" title="run.mage.coach">Bekijk hier de Talks</a>
   </div>
 </div>  
