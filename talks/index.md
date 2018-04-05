@@ -7,7 +7,7 @@ nav: talks
 image:
 ---
 
-# Sprekers
+# Talks
 
 Op {{site.title}} 2018 stonden 9 sprekers op het podium met talks tussen 7 en 16 minuten. Er was een diversiteit zijn aan onderwerpen met aandacht voor onderwijs, zorg, muziek, techniek en natuurlijk Amstelveen. Hier een overzicht van alle talks van TEDxAmstelveen 2018.
 

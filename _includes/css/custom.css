@@ -510,8 +510,8 @@ amp-accordion ul{
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
   .hero {
-    height: 130px;
-    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart2018.jpg) 0 5px /100% no-repeat;
+    height: auto;
+    background: rgba(0, 0, 0, 0) url(/img/tedxamstelveen-hero-16maart2018.jpg) center center no-repeat;
   }
 
   .socialnav a {
