@@ -30,6 +30,9 @@ Oh ja, volgend jaar mag jij deze tekst schrijven.....
 
 Toch nog iets meer weten? [hallo@tedxamstelveen.com](mailto:hallo@tedxamstelveen.com?subject=TEDxAmstelveen vacatures) of [0620438717](tel:0620438717)
 
+Over ons:
+Wij zijn TEDxAmstelveen; een organisatie van zeer enthousiaste, professionele vrijwilligers die in 2019 weer een inspirerend event willen neerzetten. Je hebt vast wel eens een TED talk gezien, toch? Wij zorgen er voor dat we hier in Amstelveen ook van die inspirerende talks delen met de rest van de wereld. Onze ambitie daarbij is groot, we willen dat TEDxAmstelveen niet alleen een event is, maar ook een beweging die positieve verandering in gang zet!
+
 # Event team member
 
 Jij in ons TEDxAmstelveen event team?
@@ -49,3 +52,6 @@ Je bent er wekelijks gemiddeld 2 uur aan kwijt. Het team komt 1-2 keer per maand
 Naarmate het event dichterbij komt, zal dat meer zijn.
 
 Iets voor jou? Laat ons weten waarom jij niet mag ontbreken in het team voor TEDxAmstelveen 2019 via email [hallo@tedxamstelveen.com](mailto:hallo@tedxamstelveen.com?subject=TEDxAmstelveen vacatures) of [0620438717](tel:0620438717)
+
+Over ons:
+Wij zijn TEDxAmstelveen; een organisatie van zeer enthousiaste, professionele vrijwilligers die in 2019 weer een inspirerend event willen neerzetten. Je hebt vast wel eens een TED talk gezien, toch? Wij zorgen er voor dat we hier in Amstelveen ook van die inspirerende talks delen met de rest van de wereld. Onze ambitie daarbij is groot, we willen dat TEDxAmstelveen niet alleen een event is, maar ook een beweging die positieve verandering in gang zet!
