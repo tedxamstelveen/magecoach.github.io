@@ -1,7 +1,7 @@
 ---
 title: TEDxAmstelveen Sprekers
 layout: default
-description: Overzicht van alle sprekers van TEDxAmstelveen.
+description: Voor TEDxAmstelveen 2019 zijn we op zoek naar nieuwe sprekers. Sprekers met ideeën en inzichten die de wereld aan het denken zetten met hun TEDTalk. Ben jij de nieuwe spreker op TEDxAmstelveen in 2019? Meld je dan aan.
 keywords:
 nav: sprekers
 image:
@@ -9,62 +9,10 @@ image:
 
 # Sprekers
 
-Op {{site.title}} 2018 stonden 9 sprekers op het podium met talks tussen 7 en 16 minuten. Er was een diversiteit zijn aan onderwerpen met aandacht voor onderwijs, zorg, muziek, techniek en natuurlijk Amstelveen. Komende maanden zullen we langzaam onze sprekers bekend maken.
+Voor TEDxAmstelveen 2019 zijn we op zoek naar sprekers. Sprekers met ideeën en inzichten die de wereld aan het denken zetten met hun TEDxTalk.
+Ben jij de nieuwe spreker op TEDxAmstelveen in 2019? We horen graag meer over jouw idee.
 
-<div class="tablet-up">
-     <div class="card-container">
-       {% for member in site.data.sprekers %}
-       {% if member.status == 'active' %}
-       <div class="card">
-         <div class="card__image">
-           <a title="{{ member.name }}" href="{{ member.url }}">
-           <amp-img
-               noloading
-               height="400"
-               width="400"
-               alt="{{ member.name }}"
-               layout="responsive"
-               src="/img/sprekers/{{ member.pic }}.jpg">
-           </amp-img></a>
-         </div>
-         <div class="card__content">
-           <h3 class="card__title"><a title="{{ member.name }}" href="{{ member.url }}">{{ member.name }}</a></h3>
-         </div>
-         <div class="card__action">
-           <a title="{{ member.name }}" href="{{ member.url }}">Lees meer</a>
-         </div>
-       </div>
-       {% endif %}
-       {% endfor %}
-     </div>
-</div>
+Ben jij dit niet, maar ken je iemand die dit graag zou willen? Stuur deze link dan snel door, wij zien de reacties graag tegemoet.
+(Inschrijven kan tot 3 september)
 
-<amp-carousel class="tablet-down"
-  width="auto"
-  height="450"
-  type="slides"
-  layout="fixed-height">
-  {% for member in site.data.sprekers %}
-  {% if member.status == 'active' %}
-  <div class="card">
-    <div class="card__image">
-      <a title="{{ member.name }}" href="{{ member.url }}">
-      <amp-img
-          noloading
-          height="200"
-          width="200"
-          alt="{{ member.name }}"
-          layout="responsive"
-          src="/img/sprekers/{{ member.pic }}.jpg">
-      </amp-img></a>
-    </div>
-    <div class="card__content">
-      <h3 class="card__title"><a title="{{ member.name }}" href="{{ member.url }}">{{ member.name }}</a></h3>
-    </div>
-    <div class="card__action">
-      <a title="{{ member.name }}" href="{{ member.url }}">Lees meer</a>
-    </div>
-  </div>
-{% endif %}
-{% endfor %}
-</amp-carousel>
+<div class="btn"> <a class="button button-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSc6m5xsDiA6wH0b_9ud0DCFRKGO6AHoyZNhSSteqeKIDPRX8w/viewform" title="Inschrijven TEDxAmstelveen 2019">Schrijf je hier in!</a></div>
