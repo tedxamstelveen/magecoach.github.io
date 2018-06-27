@@ -244,6 +244,10 @@ blockquote span:before {
   padding-top: 150px;
 }
 
+.btn spreker {
+  padding: 15px 0 50px 0
+}
+
 .button {
   display: inline-block;
   padding: 0 30px;

@@ -15,4 +15,4 @@ Ben jij de nieuwe spreker op TEDxAmstelveen in 2019? We horen graag meer over jo
 Ben jij dit niet, maar ken je iemand die dit graag zou willen? Stuur deze link dan snel door, wij zien de reacties graag tegemoet.
 (Inschrijven kan tot 3 september)
 
-<div class="btn"> <a class="button button-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSc6m5xsDiA6wH0b_9ud0DCFRKGO6AHoyZNhSSteqeKIDPRX8w/viewform" title="Inschrijven TEDxAmstelveen 2019">Schrijf je hier in!</a></div>
+<div class="btn sprekers"> <a class="button button-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSc6m5xsDiA6wH0b_9ud0DCFRKGO6AHoyZNhSSteqeKIDPRX8w/viewform" title="Inschrijven TEDxAmstelveen 2019">Schrijf je hier in!</a></div>
