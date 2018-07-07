@@ -10,7 +10,7 @@ image:
   <amp-carousel width="320" height="240" layout="responsive" type="slides">
     <amp-youtube height="240"
       layout="fixed-height"
-      data-videoid="55klB4HdgLY">
+      data-videoid="O5ERrI1vyKQ">
     </amp-youtube>
   </amp-carousel>
 </div>
