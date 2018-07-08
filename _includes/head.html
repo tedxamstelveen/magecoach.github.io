@@ -16,7 +16,11 @@
 	{% else %}
 	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}"/>
 	{% endif %}
+	{% if page.canonical %}
+	<link rel="alternate" href="{{ site.url }}{{ page.canonical | replace:'index.html','' }}" hreflang="nl" />
+	{% else %}
 	<link rel="alternate" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" hreflang="nl" />
+	{% endif %}
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@tedxamstelveen">
 	<meta name="twitter:creator" content="@tedxamstelveen">
