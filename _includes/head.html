@@ -11,7 +11,11 @@
 	<link rel="dns-prefetch" href="{{site.url}}">
 	<link rel="preconnect" href="{{site.url}}">
 	<link rel="prerender" href="{{site.url}}">
+	{% if page.canonical %}
+	<link rel="canonical" href="{{ site.url }}{{ page.canonical | replace:'index.html','' }}"/>
+	{% else %}
 	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}"/>
+	{% endif %}
 	<link rel="alternate" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" hreflang="nl" />
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@tedxamstelveen">
