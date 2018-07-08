@@ -44,4 +44,4 @@ Wij gaan er een waanzinnig mooi evenement van maken, waarop alles tot in de punt
 
 Na ontvangst zullen we je aanmelding beoordelen op originaliteit en relevantie met de regio en met het thema. Als jouw idee door deze eerste selectie komt, nodigen we je uit om dit bij ons te komen pitchen. Zijn we er dan nog steeds van overtuigd dat jouw talk een waardevolle bijdrage is voor TEDxAmstelveen 2019, dan stap jij in april op het podium!
 
-Benieuwd hoe het er in 2018 aan toe ging? Bekijk [https://www.youtube.com/watch?v=O5ERrI1vyKQ](hier) de aftermovie van vorig jaar.
+Benieuwd hoe het er in 2018 aan toe ging? Bekijk [hier](https://www.youtube.com/watch?v=O5ERrI1vyKQ) de aftermovie van vorig jaar.
