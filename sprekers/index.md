@@ -4,7 +4,7 @@ layout: default
 description: Voor TEDxAmstelveen 2019 zijn we op zoek naar nieuwe sprekers. Sprekers met ideeën en inzichten die de wereld aan het denken zetten met hun TEDTalk. Ben jij de nieuwe spreker op TEDxAmstelveen in 2019? Meld je dan aan.
 keywords:
 nav: sprekers
-image:
+image: "/img/blog/sprekers-gezocht-voor-tedxamstelveen-2019.jpg"
 ---
 
 # Sprekers gezocht voor TEDxAmstelveen 2019
