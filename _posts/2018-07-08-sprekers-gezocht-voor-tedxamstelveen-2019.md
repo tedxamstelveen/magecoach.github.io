@@ -28,9 +28,9 @@ Het succes van elk TEDx event valt of staat namelijk met inspirerende TED talks.
 
 Een TED talk is een ‘Idea wordt sharing’. Niet zomaar een presentatie, maar een sprankelende en inspirerende uiteenzetting van jouw ideeën en inzichten. In maximaal 18 minuten neem je het publiek mee in jouw gedachtewereld en geef je het iets mee om over na te denken. De opnames van de talks zijn achteraf gratis te bekijken online, dus het bereik van een TED talk is enorm.
 
-### Once upon a time?
+### Once Upon a Time?
 
-Het thema van 2019 ‘Once upon a time’ gaat over dromen die werkelijkheid worden. Over tijden die veranderen, waardevolle lessen uit het verleden, uitdagingen van nu en over oplossingen voor een toekomst waarin niets onmogelijk is.
+Het thema van 2019 ‘Once Upon a Time’ gaat over dromen die werkelijkheid worden. Over tijden die veranderen, waardevolle lessen uit het verleden, uitdagingen van nu en over oplossingen voor een toekomst waarin niets onmogelijk is.
 
 ### Wat verwachten we van jou?
 
