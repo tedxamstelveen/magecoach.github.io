@@ -14,6 +14,7 @@ intro: Na het succes van de uitverkochte eerste editie in maart 2018 staat Amste
 keywords:
 hits: 1
 nav: blog
+url: sprekers
 ---
 
 # Sprekers gezocht voor TEDxAmstelveen 2019
