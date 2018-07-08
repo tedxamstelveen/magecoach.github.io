@@ -12,7 +12,7 @@ datePublished: 2018-03-18 00:00:00 Z
 dateModified: 2018-03-18 00:00:00 Z
 intro: De eerste TEDxAmstelveen zit er op! Afgelopen vrijdag hebben 100 bezoekers zich laten inspireren door 11 verschillende TEDx talks. Er stonden als verrassing niet acht maar wel negen live sprekers om te vertellen over hun idee.
 keywords:
-hits: 1
+hits: 2
 nav: blog
 ---
 

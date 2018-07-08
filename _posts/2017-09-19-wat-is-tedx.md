@@ -12,7 +12,7 @@ datePublished: 2017-09-19 00:00:00 Z
 dateModified: 2017-09-19 00:00:00 Z
 intro: TED is een wereldwijde organisatie van vrijwilligers en partners die geloven in de kracht van het verspreiden van ideeen via TED talks. TED talks zijn korte, goed voorbereide, inspirerende presentaties van maximaal 18 minuten. Dit is genoeg tijd om serieus een onderwerp te bespreken en kort genoeg om de aandacht vast te houden.
 keywords:
-hits: 2
+hits: 99
 nav: blog-video
 ---
 
