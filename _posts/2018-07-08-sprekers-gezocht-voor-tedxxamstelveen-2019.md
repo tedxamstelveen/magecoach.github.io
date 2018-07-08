@@ -1,5 +1,5 @@
 ---
-title: Sprekers gezocht voor TEDxAmstelveen 2019 ‘Once upon a time’
+title: Sprekers gezocht voor TEDxAmstelveen 2019
 date: 2018-07-08 00:00:00 Z
 layout: default
 description: Na het succes van de uitverkochte eerste editie in maart 2018 staat Amstelveen definitief op de TEDx kaart. De organisatie voor het vervolg in 2019 is al in volle gang en wij zijn ervan overtuigd dat we de volgende editie naar een nóg hoger niveau kunnen tillen. TEDxAmstelveen 2019 wordt niet alleen groter, maar vooral ook grootser. En daar kun jij als spreker aan bijdragen!
@@ -16,7 +16,7 @@ hits: 1
 nav: blog
 ---
 
-# Sprekers gezocht voor TEDxAmstelveen 2019 ‘Once upon a time’
+# Sprekers gezocht voor TEDxAmstelveen 2019
 
 <a href="{{site.url}}{{page.url}}" title="{{ page.title }}"><amp-img noloading width="250" height="250" alt="{{ page.title }}" layout="responsive" src="{{site.url}}{{ page.image }}" class="photo pull-left"></amp-img></a>
 
@@ -44,4 +44,4 @@ Wij gaan er een waanzinnig mooi evenement van maken, waarop alles tot in de punt
 
 Na ontvangst zullen we je aanmelding beoordelen op originaliteit en relevantie met de regio en met het thema. Als jouw idee door deze eerste selectie komt, nodigen we je uit om dit bij ons te komen pitchen. Zijn we er dan nog steeds van overtuigd dat jouw talk een waardevolle bijdrage is voor TEDxAmstelveen 2019, dan stap jij in april op het podium!
 
-Benieuwd hoe het er in 2018 aan toe ging? Bekijk [https://www.youtube.com/watch?v=O5ERrI1vyKQ](hier() de aftermovie van vorig jaar.
+Benieuwd hoe het er in 2018 aan toe ging? Bekijk [https://www.youtube.com/watch?v=O5ERrI1vyKQ](hier) de aftermovie van vorig jaar.
