@@ -17,7 +17,7 @@ Het succes van elk TEDx event valt of staat namelijk met inspirerende TED talks.
 
 ### Wat is een TED talk?
 
-Een TED talk is een ‘Ideas worth spreading’. Niet zomaar een presentatie, maar een sprankelende en inspirerende uiteenzetting van jouw ideeën en inzichten. In maximaal 18 minuten neem je het publiek mee in jouw gedachtewereld en geef je het iets mee om over na te denken. De opnames van de talks zijn achteraf gratis te bekijken online, dus het bereik van een TED talk is enorm.
+TED talks zijn ‘Ideas worth spreading’. Niet zomaar een presentatie, maar een sprankelende en inspirerende uiteenzetting van jouw ideeën en inzichten. In maximaal 18 minuten neem je het publiek mee in jouw gedachtewereld en geef je het iets mee om over na te denken. De opnames van de talks zijn achteraf gratis te bekijken online, dus het bereik van een TED talk is enorm.
 
 ### Once Upon a Time?
 
