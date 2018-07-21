@@ -8,8 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: https://tedxamstelveen.com
-static-url: https://tedxamstelveen.com
+url: https://old.tedxamstelveen.com
+static-url: https://old.tedxamstelveen.com
 baseurl:
 name: TEDxAmstelveen
 domain-name: tedxamstelveen.com
