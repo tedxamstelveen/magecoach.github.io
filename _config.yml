@@ -13,7 +13,7 @@ static-url: https://tedxamstelveen.com
 baseurl:
 name: TEDxAmstelveen
 domain-name: tedxamstelveen.com
-robots: INDEX,FOLLOW
+robots: NOINDEX,NOFOLLOW
 email: hallo@tedxamstelveen.com
 description: TEDx Amstelveen - 16 Maart 2018 - Thema 'Verbinding'
 google_analytics: UA-108379881-1
